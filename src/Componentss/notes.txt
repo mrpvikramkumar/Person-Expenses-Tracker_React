@@ -1,0 +1,8 @@
+In this example we have two components , CompA and CompB.
+This is an example for passing of data between the components(functional to functional).  
+Both CompA, CompB are functional components.
+
+---------------------------------------
+
+CompC is class component and it shows how the data is passed between the functional and
+class components.   
