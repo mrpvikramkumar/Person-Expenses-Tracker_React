@@ -1,4 +1,4 @@
-***In the third commit i have done how to add expenses data, but as of now adding the data only in the console. Give it a try how the data is added by entering the values in the form.And even added filter in this but as of now it works in console it is not updating dynamically the next update will be adding the expenses data in it and filtering the data based on year dyanmically.
+***In the third commit I have done how to add expenses data, but as of now adding the data only in the console. Give it a try how the data is added by entering the values in the form.And even added filter in this but as of now it works in console it is not updating dynamically the next update will be adding the expenses data in it and filtering the data based on year dyanmically.
 
 
 
