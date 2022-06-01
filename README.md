@@ -1,4 +1,4 @@
-***In the fifth commit added an bar which shows on which month the data is added and the bar goes up and down.
+***In the fifth commit added an bar which shows on which month the data is added and the bar goes up and down, and created an buuton which is used to cancel if we don't want to add data in the file. While starting it will show on the bar and button and then we have click on the button to add data in the file.
 
 ***In the fourth commit I have added filter where the user can filter data based on year. And user can add new data and the data will bes stored.
 
